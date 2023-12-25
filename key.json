@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-tama-380604",
+  "private_key_id": "1f0171fbf6361d3df02afe83cc767e6db2a7942b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqpCsYaT/OuiQx\ncA4DRYY/C+AOcwHk+RD6XEPu1FLObIBU9mPmHalvah4ZjA0faQLTuAUtmOUOeOJD\nn21VtebsLQ9tyhqyeWGGqNUvT5zNvphCGskvzbHCdL86/LWc96/78cXLZavSu17q\nOL+ww5lgvjW0g3ucM06m7CgFLPzH1d1WciLqJhdK3qpSXJEkQblO8ABKIxZCBftR\nC8MArCFMZVHZMkHjnzcNNGrdHnRW6kUKAZVgPMqlQfGNXRms9pf87rxj8/TWACyW\nu+KOoq1e3yHdlhMIYqj3KJdGjSWj1JVqLIC0gWZcxzoxi7Gx8CCtoNBtTq+2/Xna\ntbW7n2XZAgMBAAECggEAASnI1GwFQBTDQeYEZm/PJDdhwd91VBkBjV9bJDHk1Zzm\nPA4I7Mzndoe36E8s2Lm3x/cxa9fmudRHoJPh5CtvBU2iVQqDZ5ONv2P/vgiSJlHm\nCk9R70Y877kpg46s80K5+6LwiPwqsW9PDJQx9FPFBCSPy6j4yv4Li3ZBKJXfrEIN\nXGyuR1eq4m/XZ3ecli4dS/X6saUFi+Dbynms9TYAaT+TQVRx4GfDqVprkzIhKJ1w\nNIsqmRYmRJ0WFoKg8EnVvw2zAnmYa+zfvZaQljpzJqXlXS1LFYtQZ5AKhmf0dn9O\nIUR1j0C8R0JrVzEOwBcwmT5UwetX3hMPGeFpHNInbQKBgQDTa2ybYMNUf688B4gd\nCIAISa8sfclMKZ0fEVgZJ3s6DTe+lxxeRTcaVImE7nifYP+LecihEqT/F6FFvYVZ\n7SmgIVSCtD+da3ReG2dX8DZDWDTFMYx2s8AM4ZN8zhRTBqxcUCOdezA2W7I27lOp\nm8I0HeelP3Wg1gXc/4nncxyntQKBgQDOn4BTzsDAJ740q2A9ykWARSGCNs9v5pxV\n+Bex74/0toTRDmX+ow2txfGQoL37f/YAfGIhkhI4RxXiDQhXpiToczMLUIWORY9K\n/mDnkV26VkoWJdvnxt6FO9z31Suurw3Kdz5r6aP42m7HB/gHbb5coGGjXxINovqp\n7VuoVK2UFQKBgCxqPP7HbUGrMV0jF+1Bg+Q51ps6MbfWZjPIqQFf0ft4G2XmyQbk\n85aMe/d5Qc35yrW6d/Oevxr4E+Fa11D1CfGiDucGhvbDREcg6q0Gwd+UAEINDr1B\nNe9+1EU75fkrRbp++3xyDMberKntl5XiKwJX5fpJQqTvUXwEEyyUekihAoGAbfS7\nmd3g/WEo+2Zn5PoLWmNvnZgFdAtJDwbjtTFDbnri203KQWQMF3nLP6gK8hf6le+b\nWToesAxEPPOqiNpFsd38P/0t1bR2uPX+I71cH5lj+71R9VoDeOuOf+TVRjSqJiCm\n+05ukDPN1+UJvQpNz4UZ8JLbTJ56vostx7qoVLECgYEAvCTvaUkyXXCXbcGuknvq\nG+IjBRR/wRxS4kI7akflwrY7AoPWWZkCwylp4GRY+pTAsXaKnEKz6/Hr1m6MN1bC\nrEm8whOBx3RQOlQT1QddeM+koQUaMh7NM/feS0kIR9IJi/4LwKRGdN+V1rctaW+N\nbrtdRqEh/rYms+p+61jtC00=\n-----END PRIVATE KEY-----\n",
+  "client_email": "updaterawdata@project-tama-380604.iam.gserviceaccount.com",
+  "client_id": "114313801204968925462",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/updaterawdata%40project-tama-380604.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
